@@ -19,6 +19,8 @@ Links and Resources
 - Book - Kevin Murphy Machine Learing (New Edition coming)
 - Course - http://cs231n.stanford.edu/ - Deep Learning
 - Paper - Stealing Machine Learning Models via Prediction APIs
+- Text Mining - Wiley - Book in final editing now
+- Intro to Text Mining: Bag of Words course at Datacamp
 
 Keynote:
 --------
