@@ -39,13 +39,14 @@ Keynote:
   - Answer
     - In-memory, unlimited core, standard hardware
 * Future of Data Science
- From 2017 - companies need to use machine learning  
+  - From 2017 - companies need to use machine learning  
 
 
- David Talby - CTO Atigeo
- Semantic Natural Language Undersanding with Spark, UIMA & Machine Learned ontologies
- UIMA - Unstructure Information Management Architecture
- word2vec
+ Semantic Natural Language Undersanding with Spark, UIMA - David Talby - CTO Atigeo
+ ----------------
+ - Machine Learned ontologies
+ - UIMA - Unstructure Information Management Architecture
+ - word2vec
 
 
 MetaMarkets:
@@ -61,18 +62,14 @@ Omnity
 
 Intro to Text Analytics - Ted Kwartler
 ----------------------
-Text Mining - Wiley - Book in final editing now   
-Intro to Text Mining: Bag of Words course at Datacamp
-
-Steps: 
-Define Problem - airbnb 
-Identify Text Sources - reviews
-feature ext
-analytics
-research insights
-
-- Term Frequency, Dendogram (clustering technigque), 
-- correlation is called association text analytics
+* Steps: 
+ - Define Problem - airbnb 
+ - Identify Text Sources - reviews
+ - feature ext
+ - analytics
+ - research insights
+* Term Frequency, Dendogram (clustering technigque), 
+* correlation is called association text analytics
 
 
 Kevin Murphy - Google - imagenet 
@@ -104,8 +101,9 @@ Problem with chatbot
              - data monster use ARTM - additive regularization for topic modeling
              - Knowledge graph - lab.datamonsters.co/
 
-Knowledge Engineering for Graph Analytics - hpccsystems.com
----------- - Brandon Walker & Prabhu Sadasivam - M 2/3
+Knowledge Engineering for Graph Analytics - Brandon Walker & Prabhu Sadasivam
+---------------------------- 
+-  hpccsystems.com
 - Path
 - Centrality - closest is the average
   - Entity Linking and Analysis
