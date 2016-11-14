@@ -1,3 +1,5 @@
+# ODSC - Speakers https://www.odsc.com/california/detailed-speaker-page
+
 Companies
 ----------
 - Intel -  Deep Learning
@@ -13,6 +15,7 @@ Companies
 
 Links and Resources
 -------------------
+
 - https://github.com/michhar/bot-education
 - HPCC KEL Lite - download at hpccsystems.com
 - Book -  Information Visualization - Colin
@@ -52,7 +55,7 @@ Omnity
  - Nodes are documents, Edges are semantics links
    - graph structure centrality network, edge, average , eigen vectors
 
-Intro to Text Analytics
+Intro to Text Analytics - Ted Kwartler
 ----------------------
 Text Mining - Wiley - Book in final editing now   
 Intro to Text Mining: Bag of Words course at Datacamp
