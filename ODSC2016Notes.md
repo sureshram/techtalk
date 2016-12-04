@@ -53,7 +53,6 @@ MetaMarkets:
 --------------
  - Fast, Fresh, Flexible, Self-Serve
 
-
 Omnity
 -------
  ML - NLP - Graph Mathematics
@@ -127,3 +126,6 @@ Transfer Learning - Labelling - Dataiku
 - http://cs231n.stanford.edu/
 - wordnet, imagenet
 
+Data Ninja - Trung Diep
+------------------------
+https://www.youtube.com/watch?v=l_7LknSdADE&list=PLcdGDjxwJqQNCsmtC0y1HezFmSyN2zCbR&index=1
